@@ -1,0 +1,14 @@
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
+more-itertools==10.2.0
+numpy==1.26.4
+pandas==2.2.2
+pretty-html-table==0.9.16
+python-dateutil==2.9.0.post0
+pytz==2024.1
+requests==2.32.2
+six==1.16.0
+stringcase==1.2.0
+tzdata==2024.1
+urllib3==2.2.1
